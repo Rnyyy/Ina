@@ -6,22 +6,20 @@
 }
 .judul-lagu,
 .penyanyi {
-	font-family: 'Titan One', cursive;
+	font-family: Times New Roman;
 	font-weight: bold;
 	margin-top: 35px;
-	color: white;
-	font-size: 15px;
+	color: White;
+	font-size: 25px;
 }
 .penyanyi {
 	font-weight: normal ;
 	margin-top: 15px ;
 	color: white;
-	font-size: 10px;
-	font-family: 'Titan One', cursive;
+	font-size: 16px;
 }
 body {
 	background-image: url('Boo.jpg');
-	font-family: 'Titan One', cursive;
 	margin: 0;
 	padding: 0 ;
 	width: 100% ;
@@ -37,10 +35,10 @@ body {
 	background-color: rgba(255, 355, 255, 0.1);
 	backdrop-filter : blur(12px);
 	box-shadow: rgba(85, 85, 85, 0.1) 6px 2px 16px 0px,rgba(84, 85, 85, 0.1) -6px -2px 16px 0px;
-	width: 380px;
+	width: 500px;
 	position: relative;
 	margin-top: -50px;
-	height: 240px;
+	height: 500px;
 	z-index: 100;
 	flex-direction: column;
 	display: flex;
